@@ -50,9 +50,7 @@ function Dashboad(){
 </div>
 
 
-      <div class="content">
-        <p>This is the main content area of your dashboard.</p>
-      </div>
+     
     </div>
   </div>
     </div>

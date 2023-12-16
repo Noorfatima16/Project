@@ -1,3 +1,31 @@
+.navbar{
+     margin: 20px;
+     padding: 20px;
+     background-color: black;
+}
+.color{
+  color: white;
+  margin-left: 20px;
+}
+.style{
+     color:"white";
+     text-Decoration:"none";
+    text-Align:"center"
+}
+.image{
+  margin-top: -140px;
+}
+.app{
+  margin-top: -500px;
+  margin-left: 100px;
+  font-size: 70px;
+}
+.app1{
+  margin-left: 90px;
+  font-size: 70px;
+}
+
+
 .student{
     background-color: rgba(165, 42, 42, 0.192);
     text-align: center;
@@ -29,8 +57,8 @@
 
 
 body {
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
     font-family: 'Arial', sans-serif;
   }
   
@@ -39,9 +67,9 @@ body {
   }
   
   .sidebar {
-    width: 250px;
-    height: 100vh;
-    background-color: #333;
+    width: 350px;
+    height: 75vh;
+    background-color: darkolivegreen;
     color: #fff;
     padding: 20px;
   }
@@ -85,7 +113,7 @@ body {
 
   .card-1{
      width: 300px;
-     background-color: #333;
+     background-color: brown;
      color: aliceblue;
      padding: 20px;
   }
